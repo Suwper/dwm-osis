@@ -1,7 +1,7 @@
 
 # what is this?
 
-These are the configurations for my dwm install
+These are the configuration files for my dwm install
 
 ## Note
 There are 2 versions available either with gaps or without, the one with gaps is not updated.
